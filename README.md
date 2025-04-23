@@ -4,7 +4,17 @@ This folder contains various Python programs designed to practice basic programm
 
 ## Folder Structure
 
-. ├── array.py ├── first.py ├── ifelse.py ├── loop.py └── ifelse/ ├── evenOdd.py ├── gradeChecker.py ├── positiveNegativeZero.py ├── simpleAtm.py ├── timeGreeting.py └── votingAge.py
+. ├── array.py 
+  ├── first.py
+  ├── ifelse.py 
+  ├── loop.py 
+  └── ifelse/ 
+    ├── evenOdd.py 
+    ├── gradeChecker.py 
+    ├── positiveNegativeZero.py 
+    ├── simpleAtm.py 
+    ├── timeGreeting.py 
+    └── votingAge.py
 ## File Descriptions
 
 ### Root Files
