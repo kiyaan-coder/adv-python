@@ -4,7 +4,17 @@ This folder contains various Python programs designed to practice basic programm
 
 ## Folder Structure
 
-. ├── array.py ├── first.py ├── ifelse.py ├── loop.py └── ifelse/ ├── evenOdd.py ├── gradeChecker.py ├── positiveNegativeZero.py ├── simpleAtm.py ├── timeGreeting.py └── votingAge.py
+. ├── array.py 
+  ├── first.py
+  ├── ifelse.py 
+  ├── loop.py 
+  └── ifelse/ 
+    ├── evenOdd.py 
+    ├── gradeChecker.py 
+    ├── positiveNegativeZero.py 
+    ├── simpleAtm.py 
+    ├── timeGreeting.py 
+    └── votingAge.py
 ## File Descriptions
 
 ### Root Files
@@ -30,18 +40,4 @@ This folder contains various Python programs designed to practice basic programm
    python <filename>.py
 
 
-### Steps to Add the File in VS Code:
-1. Open VS Code.
-2. In the Explorer panel, right-click on the folder `python` and select **New File**.
-3. Name the file `README.md`.
-4. Paste the content above into the file.
-5. Save the file using `Ctrl + S`.
 
-Let me know if you need further assistance!### Steps to Add the File in VS Code:
-1. Open VS Code.
-2. In the Explorer panel, right-click on the folder `python` and select **New File**.
-3. Name the file `README.md`.
-4. Paste the content above into the file.
-5. Save the file using `Ctrl + S`.
-
-Let me know if you need further assistance!
